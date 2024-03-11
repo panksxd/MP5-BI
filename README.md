@@ -1,2 +1,9 @@
-# MP5-BI
-Group D MP5
+# Mini-Project-5
+
+Tobias Carlsen - cph-tc183@cphbusiness.dk
+
+Christian Kortsen - cph-cc283@cphbusiness.dk
+
+Daniel Trelborg - cph-dh216@cphbusiness.dk
+
+Simone Toft Hansen - cph-sh575@cphbusiness.dk
